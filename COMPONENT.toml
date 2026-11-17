@@ -3,7 +3,7 @@ name = "SigmaOS-gsettings-desktop-schemas"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gsettings-desktop-schemas component"
+description = "SigmaOS SigmaOS-gsettings-desktop-schemas component"
 upstream = []
 
 [contract]
